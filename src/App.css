@@ -18,4 +18,5 @@
   gap: 20px;
   text-align: start;
   max-width: 640px;
+  border-bottom: 1px solid;
 }

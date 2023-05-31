@@ -34,7 +34,7 @@ function groupList() {
 }
 
 function App() {
-  const [showList, SetshowList] = useState("");
+  const [showList, SetshowList] = useState("event");
 
   const handleEventbtn = () => {
     SetshowList("event");
